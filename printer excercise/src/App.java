@@ -1,9 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
        /*  System.out.println("Hello, World!");
-        System.out.println("My name is Naran");
+        System.out.println("My name is sudarshan badu");
         */
-        String creator = "Narayan";
+        String creator = "sudarshan badu";
         System.out.println("The app is made by "+ creator);
         int number1 = 85;
         int number2 = 67;
