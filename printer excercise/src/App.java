@@ -6,7 +6,7 @@ public class App {
         String creator = "sudarshan badu";
         System.out.println("The app is made by "+ creator);
         int number1 = 5;
-        int number2 = 67;
+        int number2 = 7;
        // System.out.println("The value of number1 is " + number1);
         number1 = 5;
         System.out.println("The value of number1 is " + number1);
